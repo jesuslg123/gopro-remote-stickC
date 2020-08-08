@@ -54,23 +54,17 @@ I have created a modified version of uRequests which works fine with GoPro WIFI 
 ### How to
 - Install the modified uRequests Micropython library
 
-	-  [Download the library](https://github.com/jesuslg123/micropython-lib/blob/master/urequests/urequests.py)
+	-  [Download the library](https://github.com/jesuslg123/micropython-lib/blob/patch-1/urequests/urequests.py)
 
 - Connect to your M5Stick device memory using the tool you prefer
 
 	- Easy M5Stack [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=curdeveryday.vscode-m5stack-mpy)
 
-- Create a folder called "Custom"
-
-- Upload into the "Custom" folder the downlaoded uRequest file.
+- Upload the urequests.py file into the "res" folder.
 
   
 
 ## TODO
-
-- Autoconnect to GoPro on startup
-
-- Document how to override uRequests library
 
 - GoPro battery level
 
