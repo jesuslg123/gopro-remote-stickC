@@ -17,13 +17,13 @@ A GoPro Remote Control implementation using UIFlow for StickC of StackM product,
 
 - Photo
 
-- No timer
-
-- 3 seconds timer
-
-- 10 seconds timer
+    - No timer
+    - 3 seconds timer
+    - 10 seconds timer
 
 - Video
+    - Normal mode - 30fps
+    - Slow mode - Max fps supported by the camera
 
 - Timelapse
 
@@ -33,17 +33,17 @@ A GoPro Remote Control implementation using UIFlow for StickC of StackM product,
 
 - Main button
 
-- Single press: Take picture or Start/End video
+    - Single press: Take picture or Start/End video
 
-- Double press: Change submode
+    - Double press: Change submode
 
 - Right button
 
-- Long press: Connect to GoPro
+    - Long press: Connect to GoPro
 
-- Single press: Next mode
+    - Single press: Next mode
 
-- Double press: Previous mode
+    - Double press: Previous mode
 
   
 
