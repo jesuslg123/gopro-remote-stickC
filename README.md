@@ -29,7 +29,12 @@ A GoPro Remote Control implementation using UIFlow for StickC of StackM product,
     - 1440p
     - 4k
 
-  
+### Camera status
+
+- GoPro battery level
+
+- Show initial camera mode
+
 
 ## Usage
 
@@ -67,10 +72,6 @@ I have created a modified version of uRequests which works fine with GoPro WIFI 
   
 
 ## TODO
-
-- GoPro battery level
-
-- Show current camera state
 
 - Video duration
 
